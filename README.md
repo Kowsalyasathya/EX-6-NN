@@ -6,6 +6,7 @@
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 
 <H3>Algorithm:</H3>
+
 Step 1:Import the required libraries: numpy, pandas, MLPClassifier, train_test_split, StandardScaler, accuracy_score, and matplotlib.pyplot.<BR>
 
 Step 2:Load the heart disease dataset from a file using pd.read_csv().<BR>
